@@ -1,0 +1,14 @@
+C:\Users\rnarul\Downloads\CrossExchange_Project\bin\Debug\netcoreapp2.1\CrossExchange_Project.deps.json
+C:\Users\rnarul\Downloads\CrossExchange_Project\bin\Debug\netcoreapp2.1\CrossExchange_Project.runtimeconfig.json
+C:\Users\rnarul\Downloads\CrossExchange_Project\bin\Debug\netcoreapp2.1\CrossExchange_Project.runtimeconfig.dev.json
+C:\Users\rnarul\Downloads\CrossExchange_Project\bin\Debug\netcoreapp2.1\CrossExchange_Project.dll
+C:\Users\rnarul\Downloads\CrossExchange_Project\bin\Debug\netcoreapp2.1\CrossExchange_Project.pdb
+C:\Users\rnarul\Downloads\CrossExchange_Project\obj\Debug\netcoreapp2.1\CrossExchange_Project.csprojAssemblyReference.cache
+C:\Users\rnarul\Downloads\CrossExchange_Project\obj\Debug\netcoreapp2.1\CrossExchange_Project.csproj.CoreCompileInputs.cache
+C:\Users\rnarul\Downloads\CrossExchange_Project\obj\Debug\netcoreapp2.1\CrossExchange_Project.RazorAssemblyInfo.cache
+C:\Users\rnarul\Downloads\CrossExchange_Project\obj\Debug\netcoreapp2.1\CrossExchange_Project.RazorAssemblyInfo.cs
+C:\Users\rnarul\Downloads\CrossExchange_Project\obj\Debug\netcoreapp2.1\CrossExchange_Project.AssemblyInfoInputs.cache
+C:\Users\rnarul\Downloads\CrossExchange_Project\obj\Debug\netcoreapp2.1\CrossExchange_Project.AssemblyInfo.cs
+C:\Users\rnarul\Downloads\CrossExchange_Project\obj\Debug\netcoreapp2.1\CrossExchange_Project.RazorTargetAssemblyInfo.cache
+C:\Users\rnarul\Downloads\CrossExchange_Project\obj\Debug\netcoreapp2.1\CrossExchange_Project.dll
+C:\Users\rnarul\Downloads\CrossExchange_Project\obj\Debug\netcoreapp2.1\CrossExchange_Project.pdb
